@@ -1,4 +1,4 @@
-<h1>Pathfinding in the World</h1>
+<h1>TRPG《求道太虚》（Pathfinding in the World）</h1>
 <h2>一、简介</h2>
     <section>
         <h3>1.1 游戏简介</h3>
