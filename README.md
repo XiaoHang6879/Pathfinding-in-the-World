@@ -74,4 +74,4 @@
     </section>
 <h2>开源许可</h2>
 <p>本作品的许可为<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>。</p>
-<p>本作品基于<a href="http://www.bladesinthedark.com/">Blades in the Dark</a>，是One Seven Design公司的产品，由约翰·哈珀（John Harper）开发和撰写，并根据<a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported</a>许可协议授权我们使用。</p>
+<p>本作品基于<a href="http://www.bladesinthedark.com/">Blades in the Dark</a>，是One Seven Design公司的产品，由John Harper开发和撰写，并根据<a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported</a>许可协议授权我们使用。</p>
