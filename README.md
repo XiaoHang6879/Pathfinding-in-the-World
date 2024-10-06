@@ -1,4 +1,4 @@
-<h1>Pathfinding-in-the-World</h1>
+<h1>Pathfinding in the World</h1>
 <h2>简介</h2>
     <section>
         <h3>游戏简介</h3>
@@ -71,3 +71,6 @@
         <p>角色扮演，它在本质上，是一种表达的活动。这本书中的一切都是为了帮玩家们表达自我，这通过合力创作关于一群修士的社交叙事来实现。玩家有些有趣的事情要说，而游戏主持人的工作就是激发玩家的灵感，也许还指出了一些玩家觉得有趣的东西。但游戏主持人的工作并非指教玩家该怎么说这一切。</p>
         <p>游戏设定里的一些元素一定会在游戏中出现，这将是一种发现并创造性阐释的行为。例如，游戏主持人不会直截了当地告诉玩家有关不可名状之物的一切，但有几个可能的概念供玩家从中挑选——让游戏属于你自己。一旦游戏开始，这个游戏就属于你自己了，无需遵从任何人。</p>
     </section>
+<h2>开源许可</h2>
+<p>本作品的许可为<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>。</p>
+<p>本作品基于<a href="http://www.bladesinthedark.com/">Blades in the Dark</a>，是One Seven Design公司的产品，由约翰·哈珀（John Harper）开发和撰写，并根据<a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported</a>许可协议授权我们使用。</p>
